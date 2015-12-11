@@ -57,3 +57,4 @@ public class RotateGestureDetector {
 interface OnRotateListener {
     void onRotate(float degrees, float focusX, float focusY);
 }
+//aaaaa
